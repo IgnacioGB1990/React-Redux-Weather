@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# React Exercise using Redux from Udemy course : Modern React with REdux [2020 Update]
+https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-tIb0tmQSS6dQ.EtYaBIDmw
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
+### Type any city in the world and get a glimpse of your favorite city's weather forecast
 
-There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+#### API details web page:
+https://openweathermap.org/
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
-```
-> npm install
-> npm start
-```
+
