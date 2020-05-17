@@ -1,4 +1,4 @@
-# React Exercise using Redux from Udemy course : Modern React with REdux [2020 Update]
+## React Exercise using Redux from Udemy course : Modern React with Redux [2020 Update]
 https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-tIb0tmQSS6dQ.EtYaBIDmw
 
 
