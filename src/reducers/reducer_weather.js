@@ -1,6 +1,7 @@
 import { FETCH_WEATHER } from "../actions/index";
 
 export default function (state = [], action) {
+  console.log("Action received (promise resolved)", action)
   switch (action.type) {
     case FETCH_WEATHER:
 
@@ -11,6 +12,6 @@ export default function (state = [], action) {
       return [action.payload.data, ...state] //[city, city,city]
   }
 
-  console.log("Action received", action)
+  //console.log("Action received", action)
   return state;
 }
