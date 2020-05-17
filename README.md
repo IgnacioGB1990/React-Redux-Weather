@@ -3,7 +3,8 @@ https://www.udemy.com/course/react-redux/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V
 
 
 ### Type any city in the world and get a glimpse of your favorite city's weather forecast
-![image](https://user-images.githubusercontent.com/55360078/82143030-1f153080-9841-11ea-8474-7d5b4e863464.png)
+![image](https://user-images.githubusercontent.com/55360078/82143072-7adfb980-9841-11ea-866b-7f737af926d1.png)
+
 
 
 
